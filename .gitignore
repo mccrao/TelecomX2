@@ -1,0 +1,33 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+.env/
+*.env
+*.venv
+
+# Archivos de compilación y Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.log
+
+# Notebooks temporales de Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Archivos de JupyterLab
+.jupyter/
+.jupyterlab-settings/
+*.nbconvert.ipynb
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de OS
+*.bak
+*.swp
+*~
